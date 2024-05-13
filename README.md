@@ -1,7 +1,7 @@
 # Pasaydan Seva NGO Website
 
 This repository contains the source code for the Pasaydan Seva NGO website. The website is designed to showcase the organization's mission, projects, and activities, and provide a platform for volunteer registration.
-Get the demo of the website here.
+Get the demo of the website [here](https://ngo-website.s3.eu-north-1.amazonaws.com/index.html).
 
 ## Technologies Used
 
